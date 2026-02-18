@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "eniocacau-ctrl.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "eniocacau-ctrl.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "meu site"
+}
